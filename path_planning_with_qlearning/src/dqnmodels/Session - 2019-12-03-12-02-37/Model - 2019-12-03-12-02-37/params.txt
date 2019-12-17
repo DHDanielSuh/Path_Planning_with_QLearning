@@ -1,0 +1,25 @@
+Batch Size: 1000
+Crash Penalty: -2000
+Direction Scalar: 1
+Episode Length: 350
+Episodes: 500
+Epsilon Decay: 0.99
+Epsilon Initial: 1
+Epsilon Min: 0.05
+First Activation: <function relu at 0x7f68a3a571b8>
+Gamma: 0.99
+Goal Reward: 200
+Hidden Activations: <function relu at 0x7f68a3a571b8>
+Initializer: <tensorflow.python.ops.init_ops.VarianceScaling object at 0x7f6845275890>
+Last Activation: <function linear at 0x7f68a3a57410>
+Learning Rate: 0.0001
+Load Model: False
+Loss: <function huber_loss at 0x7f68b31d9b90>
+Max Scan Range: 1
+Memory Length: 1000000
+Optimizer: <class 'tensorflow.python.keras.optimizer_v2.rmsprop.RMSprop'>
+Reset Target: 2000
+Reward Direction: True
+Scan Ratio: 12
+Scan Reward Scaler: 1
+State Space: 33
